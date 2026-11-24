@@ -8,16 +8,34 @@ full stack.
 
 ## Mes projets
 
-### Shopify Analytics AI Dashboard
-Tableau de bord e-commerce de démonstration, avec une interface React
-et une API Node.js/Express. Les synthèses métier utilisent des règles
-côté serveur.
+### AlertZone — Alertes citoyennes géolocalisées
 
-→ https://github.com/GAP028/shopify-analytics-ai-dashboard
+Mon projet fil rouge CDA : application React et Symfony avec carte
+interactive, API REST, MySQL, authentification JWT et modération.
 
-### QuizBattle
-Projet collectif de quiz en direct, en cours de développement.
-Ma contribution porte sur la livraison CI/CD.
+Projet en cours : développement d’un service Python pour assister
+la vérification des signalements.
+
+→ https://github.com/GAP028/alertzone
+
+### ClickFast — Application web et DevOps
+
+Jeu web avec classement et statistiques, réalisé à partir d’une base
+pédagogique existante.
+
+Mon travail : conteneurisation avec Docker Compose, intégration des
+services et pipeline GitHub Actions avec publication sur Docker Hub.
+Le déploiement automatique complet reste à finaliser.
+
+→ https://github.com/GAP028/ClickFast-DevOps
+
+### QuizBattle — Projet collectif DevOps
+
+Application de quiz avec scores et classement, développée en équipe.
+
+Ma contribution : livraison CI/CD, workflows GitHub Actions,
+construction des images Docker et intégration des contributions.
+Projet en cours de développement.
 
 → https://github.com/GAP028/QuizBattle-DevOps
 
