@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bonjour, je suis Alain-Patrick 👋
 
-<!--
-**GAP028/GAP028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en troisième année de formation Concepteur développeur
+d’applications à l’IPSSI, je recherche une alternance en développement
+full stack.
 
-Here are some ideas to get you started:
+📅 Rythme : 3 semaines en entreprise / 1 semaine à l’école.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
+
+### Shopify Analytics AI Dashboard
+Tableau de bord e-commerce de démonstration, avec une interface React
+et une API Node.js/Express. Les synthèses métier utilisent des règles
+côté serveur.
+
+→ https://github.com/GAP028/shopify-analytics-ai-dashboard
+
+### QuizBattle
+Projet collectif de quiz en direct, en cours de développement.
+Ma contribution porte sur la livraison CI/CD.
+
+→ https://github.com/GAP028/QuizBattle-DevOps
+
+## Me contacter
+
+[Mon LinkedIn](https://www.linkedin.com/in/alain-patrick-g-45793026a/)
